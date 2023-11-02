@@ -1,0 +1,5 @@
+FROM almalinu:8
+ENV NAME=NIKHIL \
+    AGE=26 \
+    ADDRESS=HYDERABAD 
+    
